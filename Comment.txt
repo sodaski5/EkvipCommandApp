@@ -1,0 +1,29 @@
+--- Assumption of under specified points ---
+
+1. Random Value for randadd:
+What was said: The task doesn’t specify what range the random number should fall within.
+
+My assumption: I’m assuming the random number for the randadd command will range from -10 to 10. This seems like a good balance for adding some randomness without being too extreme.
+
+Why: The task doesn't give a specific range, so I picked something reasonable. This is just a placeholder, and it can be changed easily later if needed.
+
+2. Invalid Inputs:
+What was said: The task doesn’t clarify what should happen with wrong inputs.
+
+My assumption: If you type an invalid command (like "xyz") or a wrong starting number, the program will show an error message and ask you again. If you give an invalid number as the starting value, the program will stop and show an error.
+
+Why: It makes sense to handle these errors in a user-friendly way. If something goes wrong, the program will gently remind you what went wrong.
+
+3. Edge Cases (Like Overflow):
+What was said: There’s no mention of extreme values.
+
+My assumption: I didn’t add any special handling for extremely large or small numbers, but the system will handle integer overflows automatically if they occur.
+
+Why: For now, I’m assuming this won’t be a problem, but it’s something to keep in mind if the program grows.
+
+4. Program Termination:
+What was said: No specific instructions on how to end the program.
+
+My assumption: The program will exit if you give an invalid starting number or if there’s a runtime error. Otherwise, it keeps running.
+
+Why: It’s typical to stop the program when there’s a fatal error or when the user gives bad input.
