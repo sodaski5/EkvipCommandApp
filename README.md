@@ -18,7 +18,7 @@ Or you can just get the dotnet SDK if you prefer to run it from the terminal.
 3. Clone the Project
    If you want to run it locally, clone this repo:
 
-git clone https://github.com/yourusername/PreceptCommandApp.git
+git clone https://github.com/sodaski5/EkvipCommandApp.git
 cd EkvipCommandApp
 
 4. Build and Run the Project
@@ -27,10 +27,10 @@ cd EkvipCommandApp
 dotnet build
 
 Run the project:
-
 To start the program with an initial value of 3, use:
 
 dotnet run -- 3
+
 Just make sure your starting value is a valid integer.
 
 How to Use the Program
