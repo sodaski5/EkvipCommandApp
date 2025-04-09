@@ -1,0 +1,15 @@
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.csproj.AssemblyReference.cache
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.AssemblyInfoInputs.cache
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.AssemblyInfo.cs
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.csproj.CoreCompileInputs.cache
+/Users/a111/DevTools/EkvipCommandApp/bin/Debug/net7.0/EkvipCommandApp
+/Users/a111/DevTools/EkvipCommandApp/bin/Debug/net7.0/EkvipCommandApp.deps.json
+/Users/a111/DevTools/EkvipCommandApp/bin/Debug/net7.0/EkvipCommandApp.runtimeconfig.json
+/Users/a111/DevTools/EkvipCommandApp/bin/Debug/net7.0/EkvipCommandApp.dll
+/Users/a111/DevTools/EkvipCommandApp/bin/Debug/net7.0/EkvipCommandApp.pdb
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.dll
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/refint/EkvipCommandApp.dll
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.pdb
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/EkvipCommandApp.genruntimeconfig.cache
+/Users/a111/DevTools/EkvipCommandApp/obj/Debug/net7.0/ref/EkvipCommandApp.dll
